@@ -1,0 +1,3 @@
+[console_scripts]
+noseapp-manage = noseapp.manage.__main__:run
+
